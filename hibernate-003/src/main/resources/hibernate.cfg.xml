@@ -4,7 +4,7 @@
         <property name="hibernate.connection.driver_class">com.mysql.cj.jdbc.Driver</property>
         <property name="hibernate.connection.url">jdbc:mysql://localhost:3306/student</property>
         <property name="hibernate.connection.username">root</property>
-        <property name="hibernate.connection.password">7Fcgs1HW9L</property>
+        <property name="hibernate.connection.password">root</property>
 
         <!-- Hibernate Dialect -->
         <property name="hibernate.dialect">org.hibernate.dialect.MySQLDialect</property>
